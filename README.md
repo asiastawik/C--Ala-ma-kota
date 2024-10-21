@@ -1,8 +1,8 @@
-# Laboratorium 1: Ala ma kota
+# Ala ma kota
 
 ## Opis zadania
 
-Celem tego laboratorium jest napisanie programu w C, który wypisuje zdanie: 
+Celem tego zadania jest napisanie programu w C, który wypisuje zdanie: 
 
 `Ala ma X kot...`
 
